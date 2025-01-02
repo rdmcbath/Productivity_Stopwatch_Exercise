@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stopwatch with Productivity Timer</string>
+    <string name="button_start">Start</string>
+    <string name="button_reset">Reset</string>
+    <string name="text_view_start_state">00:00</string>
+    <string name="button_settings">Settings</string>
+</resources>
